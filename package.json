@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "vue-cli-plugin-tailwind": "~3.0.0"
+  }
+}
